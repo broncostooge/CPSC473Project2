@@ -13,7 +13,7 @@ Knockout
 =========================    Instructions     ====================================
 
 1. clone repository
-2. Goto Knockout_TriviaAsg6 folder
+2. Goto CPSC473Project2 folder
 3. open command prompt and type the follow commands
 4. If Package.json not working, run the following commands <br />
 	a. npm install —-save mongodb <br />
